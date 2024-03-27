@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url("file:///C:/Users/USUARIO/Documents/eu/PROGRAMA%C3%87%C3%83O/site%20login/gradient-blue-pink-abstract-art-wallpaper-a33b436d2de9cbc5dfa6225748ab3818.jpg");
+    background-size: 100%;
+}
+
+form {
+    position: relative;
+    margin: 0 auto;
+    margin-top: 270px;
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    background-color: rgba(205, 214, 221, 0.178);
+    border-radius: 15%;
+    box-shadow: 3px 3px 7px black;
+    color: white;
+}
+
+img {
+    position: absolute;
+    left: 30%;
+    right: 0%;
+    width: 140px;
+    height: 140px;
+}
+
+div {
+    margin-top: 135px;
+}
+
+label {
+    font-size: 18px;
+    text-shadow: 1px 1px 3px black;
+}
+
+input {
+    border-radius: 15%;
+    background-color: rgb(200, 237, 255);
+    border-color: #d87dcc;
+}
+
+.botao {
+    font-size: 15px;
+    background-color: rgb(88, 88, 170);
+    color: white;
+    padding: 4px;
+    border-color: rgb(61, 181, 218);
+}
